@@ -97,9 +97,6 @@
                   <li class="nav-item">
                     <a class="page-scroll" href="#materi">MATERI</a>
                   </li>
-                  <li class="nav-item">
-                    <a class="page-scroll" href="#contact">CONTACT</a>
-                  </li>
                 </ul>
               </div>
 
