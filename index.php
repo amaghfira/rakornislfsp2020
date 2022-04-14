@@ -71,7 +71,7 @@
           <div class="col-lg-12">
             <nav class="navbar navbar-expand-lg">
               <a class="navbar-brand" href="#">
-                <img src="assets/icon/logobps.png" alt="Logo">
+                <img src="assets/icon/logobps.png" alt="Logo" width="300px">
               </a>
 
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarEight" aria-controls="navbarEight" aria-expanded="false" aria-label="Toggle navigation">
@@ -379,27 +379,6 @@
                 </a>
                 <!-- Card Content - Collapse -->
                 <div class="collapse show" id="komisi6card">
-                  <div class="card-body">
-                    This is a collapsable card example using Bootstrap's built in collapse
-                    functionality. <strong>Click on the card header</strong> to see the card body
-                    collapse and expand!
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- single portfolio -->
-        </div>
-        <div class="col-lg-4 col-sm-6 branding-3 planning-3">
-          <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.2s">
-            <div class="portfolio-text">
-              <!-- Collapsable Card Example -->
-              <div class="card shadow mb-4">
-                <!-- Card Header - Accordion -->
-                <a href="#komisi7card" class="d-block card-header py-3" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="komisi7card">
-                  <h6 class="m-0 font-weight-bold text-primary">KOMISI 7 - CHANGE AGENT NETWORK BPS KAB/KOTA</h6>
-                </a>
-                <!-- Card Content - Collapse -->
-                <div class="collapse show" id="komisi7card">
                   <div class="card-body">
                     This is a collapsable card example using Bootstrap's built in collapse
                     functionality. <strong>Click on the card header</strong> to see the card body
